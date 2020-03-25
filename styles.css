@@ -160,7 +160,7 @@
         display: block;
         align-items: center;
         justify-content: center;
-        font-family: var(--content-font);
+        font-family: 'Lato';
         font-size: 1.6rem;
         padding: 1rem 1rem;
     }
@@ -169,7 +169,7 @@
         display: block;
         align-items: center;
         justify-content: center;
-        font-family: var(--content-font);
+        font-family: 'Lato';
         font-size: 1.6rem;
         padding: 1rem 1rem;
     }
@@ -178,7 +178,7 @@
         display: block;
         align-items: center;
         justify-content: center;
-        font-family: var(--content-font);
+        font-family: 'Lato';
         font-size: 1.6rem;
         padding: 1rem 1rem;
     }
@@ -492,8 +492,8 @@
             padding: 1.4rem 1.4rem;
             margin-top: 2rem;
         }
-        .text-lg {
-            font-size: 3.5rem;
+        .tab-1-content p, .tab-2-content p, .tab-3-content p {
+            font-size: 3rem;
             letter-spacing: 2px;
         }
         .showcase-top a {
@@ -592,10 +592,13 @@
             text-align: center;
             margin-left: 6rem;
         }
-         .footer-cols {
+         .footer-cols a {
             font-size: 2.8rem;
         }
          .footer p {
             font-size: 1.8rem;
+        }
+         .icons {
+            margin-left: 5rem;
         }
     }
