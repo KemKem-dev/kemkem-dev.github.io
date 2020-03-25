@@ -531,6 +531,7 @@
         }
         .profile-content-wrapper p {
             margin-top: 1rem;
+            font-size: 2rem;
         }
         .portfolio-items-wrapper {
             display: grid;
