@@ -49,7 +49,7 @@
         width: 100%;
         height: 93vh;
         position: relative;
-        background: url('kemkem.jpg');
+        background: url('kemkem.JPG');
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -72,14 +72,6 @@
         z-index: 2;
         height: 90px;
     }
-    /*.showcase-top h2 {
-    font-size: 1.8rem;
-    width: 170px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}*/
     
     .showcase-top a {
         position: absolute;
@@ -501,7 +493,7 @@
             margin-top: 2rem;
         }
         .text-lg {
-            font-size: 1.3rem;
+            font-size: 2.2rem;
             letter-spacing: 2px;
         }
         .showcase-top a {
@@ -517,7 +509,7 @@
             margin-right: 3.2rem;
         }
         .tabs p {
-            font-size: 1.4rem;
+            font-size: 2rem;
         }
         .profile-image-wrapper {
             display: block;
@@ -598,6 +590,12 @@
             align-items: center;
             justify-content: center;
             text-align: center;
-            margin-left: 5rem;
+            margin-left: 6rem;
+        }
+         .footer-cols {
+            font-size: 2rem;
+        }
+         .footer p {
+            font-size: 1.8rem;
         }
     }
