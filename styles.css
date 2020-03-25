@@ -477,7 +477,7 @@
             margin-top: 4.5rem;
         }
         .showcase-content p {
-            font-size: 2.3rem;
+            font-size: 2.5rem;
             margin-top: 1.5rem;
             letter-spacing: 1px;
             font-weight: lighter;
@@ -491,6 +491,9 @@
             font-size: 1.9rem;
             padding: 1.4rem 1.4rem;
             margin-top: 2rem;
+            margin-left: 6rem;
+            align-items: center;
+            justify-content: center;
         }
         .tab-1-content p, .tab-2-content p, .tab-3-content p {
             font-size: 3.2rem;
