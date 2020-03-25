@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family= Abhaya+Libre| EB+Garamond|Galada|Judson|Ibarra+Real+Nova|Lato|Lobster|Martel|Neuton|Noto+Serif|Open+Sans|PT+Serif+Caption|Playfair+Display+SC|Roboto|Unna&display=swap');
+@import url('https://fonts.googleapis.com/css?family= Abhaya+Libre|Judson|Noto+Serif|Roboto|Unna&display=swap');
      :root {
         --primary-color: #1b9bff;
-        --main-font: 'Martel', 'Noto Serif';
+        --main-font:  'Noto Serif';
         --content-font: 'Judson', 'Abhaya Libre';
     }
     
