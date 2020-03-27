@@ -255,6 +255,11 @@
         transform: scale(1.1);
         cursor: pointer;
     }
+
+   .container-wrapper {
+        background: #141414;
+        max-width: 100%;
+    }
     
     .dark {
         padding: 15px;
