@@ -345,11 +345,11 @@
     
     .btn-xl {
         font-size: 1.8rem;
-        padding: 1.1rem 1.3rem;
+        padding: 0.8rem 1rem;
         text-transform: uppercase;
         border-radius: 5px;
-        margin-top: 10px;
-        margin-bottom: 1rem;
+        margin-top: 5px;
+        margin-bottom: 2rem;
     }
     
     .btn-mm {
